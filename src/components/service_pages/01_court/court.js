@@ -17,7 +17,7 @@ const Court = () => {
                     <div className='service__page-content'>
                         <div className='service__page-content-text'>
                             <div className='service__page-content-title'>
-                                <h3>Участие в рассмотрении дел в Восьмом кассационном суде общей юрисдикции,Кемеровском областном суде</h3>
+                                <h3>Участие в рассмотрении дел в Восьмом кассационном суде общей юрисдикции, Кемеровском областном суде</h3>
                             </div>
                             <div className='service__page-content-info'>
                                 <p className='service__page-content-info-title'>Уважаемые коллеги!</p>
