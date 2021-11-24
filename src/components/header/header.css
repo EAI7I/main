@@ -495,6 +495,84 @@ p {
     }
 }
 
+/* Apple Xr+ */
+@media (min-width:410px) and (max-width:420px) {
+    .mobile__header {
+        display: block;
+        width: 100%;
+        height: 240px;
+        background-color:#F4FAFF;
+        box-shadow: 3px 4px 7px rgba(13, 14, 56, 0.06);
+    }
+
+    .mobile__header-title {
+        width: 90%;
+        height: 80px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .mobile__header-title-name {
+        display: inline-block;
+    }
+
+    .mobile-logo {
+        display: block;
+        width: 43px;
+    }
+    
+    .mobile-logo img {
+        width: 43px;
+        height: 41px;
+        margin-top: 10px;
+    }
+
+    .mobile-name {
+        display: block;
+        margin-top: -40px;
+        margin-left: 50px;
+    }
+
+    .mobile-name h6 {
+        margin: 0;
+        font-size: 10.5px;
+    }
+
+    .mobile__header-title-address {
+        font-family: Open Sans;
+        font-size: 13.5px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: left;
+        width: 180px;
+        margin-top: -36px;
+        margin-left: 170px;        
+    }
+
+
+    .mobile__header-contact {
+        width: 300px;
+        height: 160px;
+        display: inline-block;
+        margin-left: 25px;
+    }
+
+    .mobile__header-contact-data {
+        width: 280px;
+        position: relative;
+        top: 7px;
+        margin-bottom: 15px;
+    }
+
+    .mobile__header-contact-data a{
+        font-size: 17px;
+        color: #000;
+        text-decoration: none;
+    }
+}
+
 
 
 @media (max-width:369px) {
