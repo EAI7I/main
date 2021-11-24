@@ -506,7 +506,7 @@ p {
     }
 
     .mobile__header-title {
-        width: 90%;
+        width: 380px;
         height: 80px;
         margin: 0 auto;
         display: block;
@@ -535,12 +535,12 @@ p {
 
     .mobile-name h6 {
         margin: 0;
-        font-size: 10.5px;
+        font-size: 11px;
     }
 
     .mobile__header-title-address {
         font-family: Open Sans;
-        font-size: 13.5px;
+        font-size: 14px;
         font-style: normal;
         font-weight: 400;
         line-height: 17px;
@@ -548,7 +548,7 @@ p {
         text-align: left;
         width: 180px;
         margin-top: -36px;
-        margin-left: 170px;        
+        margin-left: 190px;        
     }
 
 
