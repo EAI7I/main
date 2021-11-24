@@ -178,14 +178,8 @@
 
 /* Apple Xr+ */
 @media (min-width:410px) and (max-width:420px) {
-    .cards-text {
-        font-family: Open Sans;
+    .cards-text p{
         font-size: 15px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 18px;
-        letter-spacing: 0em;
-        text-align: center;    
     }
 }
 
