@@ -508,7 +508,7 @@ p {
     .mobile__header-title {
         width: 400px;
         height: 80px;
-        margin-left: 25px;
+        margin-left: 35px;
         display: block;
     }
 
@@ -530,7 +530,7 @@ p {
     .mobile-name {
         display: block;
         margin-top: -48px;
-        margin-left: 70px;
+        margin-left: 65px;
     }
 
     .mobile-name h6 {
@@ -548,7 +548,7 @@ p {
         text-align: left;
         width: 180px;
         margin-top: -36px;
-        margin-left: 260px;        
+        margin-left: 240px;        
     }
 
 
