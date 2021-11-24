@@ -1,0 +1,296 @@
+.content {
+    width: 100%;
+    height: 2218px;
+    background: linear-gradient(174.48deg, rgba(219, 229, 239, 0.2) 1.57%, rgba(255, 255, 255, 0.2) 27.77%, rgba(102, 159, 211, 0.2) 74.66%),
+    linear-gradient(141.46deg, #A0C6E9 44.05%, #CEE2F5 66.52%, #F2F9FF 91.85%);
+    margin-top: -45px;
+}
+
+.content-workers__container {
+    width: 1060px;
+    height: 770px;
+    margin: 0 auto;
+}
+
+.content-workers__container-title {
+    position: relative;
+    top: 20px;
+}
+
+.content-workers__container-title h4{
+    font-family: Open Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.content-workers__container-title {
+    font-family: Open Sans;
+    font-size: 17.5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+}
+
+.content-workers__container-lawyer {
+    position: relative;
+    top: 40px;
+    display: grid;
+    grid-template-columns: 344px 60px 344px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-workers__container-lawyer-1 {
+    position: relative;
+    top: 15px;
+    display: grid;
+    grid-template-rows: 430px 54px 126px;
+    justify-items: center; 
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.lawyer-photo {
+    pointer-events: none;
+}
+
+.lawyer-1__post h5 {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;  
+    margin-top: 25px;  
+}
+
+.lawyer-1__post p{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;  
+    margin-top: 8px;  
+    text-align: center;
+}
+
+.lawyer-1__experience {
+    width: 300px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin-top: 35px;
+}
+
+
+
+@media (max-width:1060px) {
+    .content {
+        margin-top: -100px;
+    }
+
+    .content-workers__container {
+        width: 100%;
+        height: 770px;
+        margin: 0px auto;
+    }
+    
+    .content-workers__container-title {
+        position: relative;
+        top: 20px;
+        width: 100%;
+    }
+    
+    .content-workers__container-title h4{
+        font-family: Open Sans;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 45px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-bottom: 32px;
+    }
+    
+    .content-workers__container-title {
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: center;
+    }
+    
+    .content-workers__container-lawyer {
+        position: relative;
+        top: 40px;
+        display: grid;
+        grid-template-columns: 300px 50px 300px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lawyer-photo {
+        width: 300px;
+        height: 375px;
+    }
+    
+    .content-workers__container-lawyer-1 {
+        position: relative;
+        top: 15px;
+        height: 570px;
+        display: grid;
+        grid-template-rows: 430px 54px 126px;
+        justify-items: center; 
+        background-color: #fff;
+    }
+    
+    .lawyer-1__post h5 {
+        font-family: Open Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: center;  
+        margin-top: -17px;  
+    }
+    
+    .lawyer-1__post p{
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;  
+        margin-top: 8px;  
+        text-align: center;
+    }
+    
+    .lawyer-1__experience {
+        width: 300px;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 8px;
+    }
+}
+
+/* @media (max-width:1450px) {
+    .content {
+        width: 100%;
+    }
+} */
+
+/* mobile */
+@media (max-width:730px) {
+    .content {
+        width: 100%;
+        height: 3400px;
+        background: #ebf1f8;
+        align-items: center;
+    }
+    
+    .content-workers__container {
+        width: 90%;
+        height: 770px;
+        margin: 0 auto;
+    }
+    
+    .content-workers__container-title p{
+        text-align: left;
+    }
+    
+    .content-workers__container-title h4{
+        font-family: Open Sans;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 45px;
+        text-align: left;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    
+    .content-workers__container-title {
+        position: relative;
+        top: 0px;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: center;
+    }
+    
+    .content-workers__container-lawyer {
+        position: relative;
+        top: 10px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 600px 15px 600px;
+        justify-items: center;
+    }
+
+    .lawyer-photo {
+        width: 300px;
+        height: 375px;
+    }
+    
+    .content-workers__container-lawyer-1 {
+        position: relative;
+        width: 300px;
+        top: 15px;
+        display: grid;
+        grid-template-rows: 375px 54px 140px;
+        justify-items: center; 
+        background-color: #fff;
+        box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+        border-radius: 5px;
+    }
+
+    .lawyer-1__post {
+        width: 95%;
+    }
+    
+    .lawyer-1__post h5 {
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px;
+        text-align: left;  
+        margin-top: 25px;  
+    }
+    
+    .lawyer-1__post p{
+        font-family: Open Sans;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;  
+        margin-top: 8px;  
+        text-align: left;
+    }
+    
+    .lawyer-1__experience {
+        width: 95%;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 35px;
+    }
+}

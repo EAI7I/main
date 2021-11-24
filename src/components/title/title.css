@@ -1,0 +1,210 @@
+.desktop__title {
+    width: 100%;
+    height: 798px;
+    background: url('https://i.ibb.co/pfttVf6/background.png') no-repeat;
+    background-size: cover;
+}
+
+.title__container {
+    position: relative;
+    left: 12.5%;
+    top: 135px;
+    width: 1070px;
+    height: 348px;
+    font-family: Montserrat;
+    line-height: 80px;
+    font-weight: 800;
+    letter-spacing: 4px;
+    font-size: 62px;
+    color: #fff;
+}
+
+.title__container-indent {
+    position: relative;
+    bottom: 44px;
+    width: 233px;
+    height: 2px;
+    pointer-events: none;
+}
+
+.title__container-description {
+    position: relative;
+    top: 5px;
+    width: 710px;
+    height: 150px;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+
+.title__container-description h4 {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Open Sans;
+}
+
+.mobile__title-container {
+    display: none;
+}
+
+
+@media (max-width:1510px) {
+    .title__container {
+        left: 10%;
+        font-size: 45px;
+        width: 900px;
+        line-height: 60px;
+        font-weight: 800;
+        letter-spacing: 3px;
+    }
+
+    .title__container-description {
+        width: 600px;
+        height: 150px;
+        font-size: 20px;
+        line-height: 25px;   
+    }
+    
+    .title__container-description h4 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:1010px) {
+    .title {
+        width: 100%;
+        height: 798px;
+        background: url('./background.png') no-repeat;
+        background-size: auto 700px;
+    }
+
+    .title__container {
+        left: 7%;
+        font-size: 35px;
+        width: 700px;
+        line-height: 40px;
+        font-weight: 800;
+        letter-spacing: 3px;
+    }
+
+    .title__container-indent {
+        position: relative;
+        bottom: 20px;
+        width: 233px;
+        height: 2px;
+    }
+
+    .title__container-description {
+        width: 600px;
+        height: 150px;
+        font-size: 18px;
+        line-height: 25px;   
+    }
+    
+    .title__container-description h4 {
+        font-size: 18px;
+    }
+}
+
+
+
+@media (max-width:767px) {
+    .desktop__title {
+        display: none;
+    }
+
+    .mobile__title-container {
+        display: block;
+        width: 100%;
+        height: 407px;
+        background: url('https://i.ibb.co/pfttVf6/background.png') no-repeat;
+        background-size: cover;
+        color: #fff;
+        background-color: cadetblue;
+    }
+
+    .title__container-named {
+        width: 80%;
+        height: 114px;
+        position: relative;
+        top: 63px;
+        font-family: Montserrat;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 34px;
+        letter-spacing: 0.03em;
+        text-align: left;  
+        margin: 0 auto;      
+    }
+
+    .title__container-indent {
+        width: 80%;
+        height: 10px;
+        position: relative;
+        top: 40px;
+        margin: 0 auto;
+    }
+
+    .title__container-description {
+        width: 80%;
+        position: relative;
+        top: 75px;
+        font-family: Open Sans;
+        font-size: 14.5px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 21px;
+        text-align: left;
+        margin: 0 auto;        
+    }
+
+}
+
+@media (max-width:685px) {
+    .title__container-named {
+        width: 85%;    
+    }
+
+    .title__container-indent {
+        width: 85%;
+    }
+
+    .title__container-description {
+        width: 85%;
+    }
+}
+
+@media (max-width:600px) {
+    .title__container-named {
+        width: 90%;    
+    }
+
+    .title__container-indent {
+        width: 90%;
+    }
+
+    .title__container-description {
+        width: 90%;
+    }
+}
+
+@media (max-width:340px) {
+    .desktop__title {
+        display: none;
+    }
+
+    .mobile__title-container {
+        display: block;
+        width: 100%;
+        height: 400px;
+        background: url('https://i.ibb.co/pfttVf6/background.png') no-repeat;
+        background-size: cover;
+        color: #fff;
+        background-color: cadetblue;
+    }
+}

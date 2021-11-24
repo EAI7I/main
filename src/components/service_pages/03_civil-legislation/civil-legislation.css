@@ -1,0 +1,109 @@
+.desktop-service__page-03 {
+    width: 100%;
+    height: 115vh;
+    background-color: #e9f0f5;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.service__page-content-text-03 {
+    display: grid;
+    grid-template-rows: 120px 460px;
+}
+
+@media (min-width:1681px) and (max-width:1750px) {
+    .desktop-service__page-03 {
+        height: 120vh;
+    }
+}
+
+@media (max-width:1680px) {
+    .service__page-content-text-03 ul li {
+        line-height: 30px;
+    }
+}
+
+@media (min-width:1099px) and (max-width:1400px) {
+    .desktop-service__page-03 {
+        height: 125vh;
+    }
+}
+
+@media (max-width:1110px) {
+    .desktop-service__page-03 {
+        height: 110vh;
+    }
+
+    .service__page-content-text-03 ul li {
+        line-height: 25px;
+    }
+}
+
+@media (max-width:935px) {
+    .service__page-content-text-03 ul li {
+        line-height: 21px;
+    }
+
+    .service__page-content-text-03 {
+        display: grid;
+        grid-template-rows: 100px 460px;
+    }
+}
+
+/* mobile */
+@media (max-width:767px) {
+    .desktop-service__page-03 {
+        display: none;
+    }
+
+    .service__page-content-text-03 {
+        width: 80%;
+        display: grid;
+        grid-template-rows: 90px 400px;
+    }
+}
+
+@media (max-width:550px) {
+    .mobile-service__page {
+        height: 85vh;
+    }
+
+    .service__page-content-text-03 {
+        width: 90%;
+        display: grid;
+        grid-template-rows: 90px 400px;
+    }
+}
+
+@media (max-width:470px) {
+    .service__page-content-text-03 {
+        display: grid;
+        grid-template-rows: 80px 400px;
+    }
+}
+
+@media (max-width:375px) {
+    .service__page-content-text-03 {
+        display: grid;
+        grid-template-rows: 75px 400px;
+    }
+}
+
+@media (max-width:350px) {
+    .mobile-service__page {
+        height: 95vh;
+    }
+
+    .service__page-content-text-03 {
+        display: grid;
+        grid-template-rows: 70px 400px;
+    }
+}
+
+@media (max-width:320px) {
+    .service__page-content-text-03 {
+        display: grid;
+        grid-template-rows: 70px 400px;
+    }
+}

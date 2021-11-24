@@ -1,0 +1,190 @@
+.content-services__container-data {
+    width: 700px;
+    height: 142px;
+    position: relative;
+    top: 40px;
+    left: 10px;
+    box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+    border-radius: 5px;
+    background-color: #fff;
+    margin-bottom: 32px;
+    cursor: pointer;
+}
+
+.content-services__container-data:hover {
+    box-shadow: 3px 3px 20px rgba(51, 79, 99, 0.23);
+    border-radius: 5px;
+}
+
+.cards {
+    width: 690px;
+    height: 142px;
+    display: grid;
+    grid-template-columns: 160px 530px;
+    align-items: center;
+}
+
+.cards-img {
+    display: flex;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.cards-text {
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;    
+    text-decoration: none;
+}
+
+@media (max-width:1700px) and (min-width:1670px) {
+    .cards-text {
+        font-size: 22px;
+    }
+}
+
+@media (max-width:1450px) {
+    .content-services__container-data {
+        width: 590px;
+        height: 142px;
+        position: relative;
+        top: 25px;
+        left: 0;
+        box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+        border-radius: 5px;
+        background-color: #fff;
+        margin-bottom: 32px;
+    }
+    
+    .cards {
+        width: 590px;
+        height: 142px;
+        display: grid;
+        grid-template-columns: 160px 430px;
+        align-items: center;
+    }
+    
+    .cards-text {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:1200px) {
+    .content-services__container-data {
+        width: 500px;
+        height: 142px;
+        position: relative;
+        top: 25px;
+        left: 0;
+        box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+        border-radius: 5px;
+        background-color: #fff;
+        margin-bottom: 32px;
+    }
+    
+    .cards {
+        width: 500px;
+        height: 142px;
+        display: grid;
+        grid-template-columns: 140px 360px;
+        align-items: center;
+    }
+    
+    .cards-text {
+        font-family: Open Sans;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;    
+    }
+}
+
+@media (max-width:1020px) {
+    .content-services__container-data {
+        width: 360px;
+        height: 142px;
+        position: relative;
+        top: 25px;
+        left: 0;
+        box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+        border-radius: 5px;
+        background-color: #fff;
+        margin-bottom: 32px;
+    }
+    
+    .cards {
+        width: 360px;
+        height: 142px;
+        display: grid;
+        grid-template-columns: 100px 260px;
+        align-items: center;
+    }
+    
+    .cards-text {
+        font-family: Open Sans;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        letter-spacing: 0em;
+        text-align: left;    
+    }
+}
+
+
+/* mobile */
+@media (max-width:730px) {
+    .content-services__container-data {
+        width: 90%;
+        height: 120px;
+        position: relative;
+        top: 25px;
+        left: 0;
+        box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
+        border-radius: 5px;
+        background-color: #fff;
+        margin-bottom: 15px;
+    }
+    
+    .cards {
+        width: 100%;
+        height: 120px;
+        display: grid;
+        grid-template-columns: 0.5fr 2fr;
+        align-items: center;
+    }
+
+    .cards-img img {
+        width: 50px;
+        height: 54px;
+    }
+    
+    .cards-text {
+        font-family: Open Sans;
+        font-size: 12.5px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;    
+    }
+}
+
+
+@media (max-width:495px) {    
+    .cards {
+        grid-template-columns: 1fr 3fr;
+    }
+}
+
+@media (max-width:350px) {
+    .cards-text {
+        font-size: 12px;
+    }
+}
