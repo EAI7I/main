@@ -508,7 +508,7 @@ p {
     .mobile__header-title {
         width: 400px;
         height: 80px;
-        margin-left: 14px;
+        margin-left: 0px;
         display: block;
     }
 
