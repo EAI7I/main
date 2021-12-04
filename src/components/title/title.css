@@ -196,7 +196,7 @@
 /* Apple Xr */
 @media (min-width:410px) and (max-width:420px) {    
     .mobile__title-container {
-        width: 102%;
+        width: 101%;
     }
 }
 
@@ -212,6 +212,6 @@
         background: url('https://i.ibb.co/YL9981g/background.webp') no-repeat;
         background-size: cover;
         color: #fff;
-        background-color: cadetblue;
+        /* background-color: cadetblue; */
     }
 }
