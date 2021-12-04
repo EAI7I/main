@@ -33,7 +33,7 @@ const BailiffsLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/WWhjDJM/09-bailiffs-legislation.png' alt='картинка зала суда'/>
+                            <img src='https://i.ibb.co/G3D9c06/09-bailiffs-legislation.webp' alt='картинка зала суда'/>
                         </div>
                     </div>
                 </div>

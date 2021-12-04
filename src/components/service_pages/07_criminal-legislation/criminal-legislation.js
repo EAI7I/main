@@ -34,7 +34,7 @@ const CriminalLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/JFBdS3F/07-criminal-legislation.png' alt='картинка зала суда'/>
+                            <img src='https://i.ibb.co/YR9QZT8/07-criminal-legislation.webp' alt='картинка зала суда'/>
                         </div>
                     </div>
                 </div>

@@ -37,7 +37,7 @@ const HousingLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img className='service__page-content-img-05' src='https://i.ibb.co/Svppq6r/05-housing-legislation.png' alt='картинка рабочего'/>
+                            <img className='service__page-content-img-05' src='https://i.ibb.co/1fxMpn3/05-housing-legislation.webp' alt='картинка рабочего'/>
                         </div>
                     </div>
                 </div>

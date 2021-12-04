@@ -33,7 +33,7 @@ const ArbitrationLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/5xBP0pZ/06-arbitration-legislation.png' alt='картинка зала суда'/>
+                            <img src='https://i.ibb.co/hg7dFRq/06-arbitration-legislation.webp' alt='картинка зала суда'/>
                         </div>
                     </div>
                 </div>

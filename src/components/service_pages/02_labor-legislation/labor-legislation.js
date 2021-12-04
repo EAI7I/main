@@ -33,7 +33,7 @@ const LaborLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/sshRJhN/02-labor-legislation.png' alt='картинка рабочего'/>
+                            <img src='https://i.ibb.co/Sr1xKSS/02-labor-legislation.webp' alt='картинка рабочего'/>
                         </div>
                     </div>
                 </div>

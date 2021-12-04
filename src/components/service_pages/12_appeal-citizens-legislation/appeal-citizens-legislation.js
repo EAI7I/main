@@ -30,7 +30,7 @@ const AppealCitizensLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/kH3nzFt/12-appeal-citizens-legislation.png' alt='картинка офиса с работниками'/>
+                            <img src='https://i.ibb.co/R7SXCMY/12-appeal-citizens-legislation.webp' alt='картинка зала заседаний'/>
                         </div>
                     </div>
                 </div>

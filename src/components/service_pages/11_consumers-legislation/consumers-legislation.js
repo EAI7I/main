@@ -29,7 +29,7 @@ const ConsumersLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/gJRtPxr/11-consumers-legislation.png' alt='картинка офиса с работниками'/>
+                            <img src='https://i.ibb.co/pWj2k8H/11-consumers-legislation.webp' alt='картинка офиса с работниками'/>
                         </div>
                     </div>
                 </div>

@@ -31,7 +31,7 @@ const BanksLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/n6rv2mh/10-banks-legislation.png' alt='картинка зала суда'/>
+                            <img src='https://i.ibb.co/nbkndn6/10-banks-legislation.webp' alt='картинка зала суда'/>
                         </div>
                     </div>
                 </div>

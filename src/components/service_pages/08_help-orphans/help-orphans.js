@@ -30,7 +30,7 @@ const HelpOrphans = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/RNjdJFG/08-help-orphans.png' alt='картинка зала суда'/>
+                            <img src='https://i.ibb.co/JF1QzB8/08-help-orphans.webp' alt='картинка зала суда'/>
                         </div>
                     </div>
                 </div>

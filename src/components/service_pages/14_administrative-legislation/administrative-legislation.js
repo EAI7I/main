@@ -31,7 +31,7 @@ const AdministrativeLegislation = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/Jz2yT7J/14-administrative-legislation.png' alt='картинка офиса с работниками'/>
+                            <img src='https://i.ibb.co/brTrYkS/14-administrative-legislation.webp' alt='картинка зала заседаний'/>
                         </div>
                     </div>
                 </div>
