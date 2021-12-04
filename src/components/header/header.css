@@ -499,7 +499,7 @@ p {
 @media (min-width:410px) and (max-width:420px) {    
     .mobile__header {
         display: block;
-        width: 101.8%;
+        width: 102%;
         height: 240px;
         background-color:#F4FAFF;
         box-shadow: 3px 4px 7px rgba(13, 14, 56, 0.06);
