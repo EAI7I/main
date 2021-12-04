@@ -13,7 +13,7 @@ const Cards = () => {
         {img:'https://i.ibb.co/n1hhDwW/group-1.png', service:'Юридическая помощь лицам из числа детей-сирот и детей, оставшихся без попечения родителей', url: 'help-orphans'},
         {img:'https://i.ibb.co/2NrTjGZ/Group.png', service:'Законодательство об исполнительном производстве и судебных приставах', url: 'bailiffs-legislation'},
         {img:'https://i.ibb.co/xD3nttB/Group-2.png', service:'Законодательство о банках и банковской деятельности', url: 'banks-legislation'},
-        {img:'https://i.ibb.co/hcmMBzw/Group-5.png', service:'Законодательство о защите прав потребителей', url: 'consumers-legislation'},
+        {img:'https://i.ibb.co/wW12zMx/group-5.png', service:'Законодательство о защите прав потребителей', url: 'consumers-legislation'},
         {img:'https://i.ibb.co/cbVzZwP/Group-6.png', service:'Законодательство о порядке рассмотрения обращений граждан', url: 'appeal-citizens-legislation'},
         {img:'https://i.ibb.co/rGnvL1p/XMLID-1619.png', service:'Законодательство о социальном и пенсионном обеспечении граждан', url: 'pension-legislation'},
         {img:'https://i.ibb.co/8xJbVhG/auction-1.png', service:'Административное законодательство', url: 'administrative-legislation'},
