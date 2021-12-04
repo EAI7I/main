@@ -196,7 +196,7 @@
 /* Apple Xr */
 @media (min-width:410px) and (max-width:420px) {    
     .mobile__title-container {
-        width: 102%;
+        width: 102.5%;
     }
 }
 
