@@ -12,7 +12,7 @@ const Court = () => {
             <div className='desktop-service__page'>
                 <div className='service__page-container'>
                     <div className='service__page-nav'>
-                        <NavLink to='/main' style={{cursor: 'pointer', color: 'black'}}><p>Главная</p></NavLink> / <p>Участие в рассмотрении дел в Восьмом кассационном суде общей юрисдикции,Кемеровском областном суде</p>
+                        <NavLink to='/main' style={{cursor: 'pointer', color: 'black'}}><p>Главная</p></NavLink> / <p>Участие в рассмотрении дел в Восьмом кассационном суде общей юрисдикции, Кемеровском областном суде</p>
                     </div>
                     <div className='service__page-content'>
                         <div className='service__page-content-text'>
@@ -33,7 +33,7 @@ const Court = () => {
                         </div>
                         <div></div>
                         <div className='service__page-content-img'>
-                            <img src='https://i.ibb.co/pKdK3F0/01-court.png' alt='картинка суда'/>
+                            <img src='https://i.ibb.co/bbWjJkz/01-court.webp' alt='картинка суда'/>
                         </div>
                     </div>
                 </div>
