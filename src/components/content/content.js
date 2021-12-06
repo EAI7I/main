@@ -41,11 +41,11 @@ const Content = () => {
                         <div></div>
                         <div className='content-workers__container-lawyer-1'>
                         <div><img src={lawyer_2} alt='фото сотрудника' className='lawyer-photo'/></div>
-                            <div className='lawyer-1__post'>
+                            <div className='lawyer-2__post'>
                                 <h5>Нуртдинов Дамир Мухаметгадиевич</h5>
                                 <p>Юрист</p>
                             </div>
-                            <div className='lawyer-1__experience'>
+                            <div className='lawyer-2__experience'>
                                 <p>Стаж юридической деятельности более 25 лет</p>
                             </div>
                         </div>

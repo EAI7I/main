@@ -50,7 +50,7 @@
     position: relative;
     top: 15px;
     display: grid;
-    grid-template-rows: 430px 54px 126px;
+    grid-template-rows: 430px 54px 110px;
     justify-items: center; 
     background-color: #fff;
     border-radius: 5px;
@@ -83,13 +83,47 @@
 .lawyer-1__experience {
     width: 300px;
     font-family: Open Sans;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 19px;
-    text-align: left;
+    text-align: center;
     margin-top: 35px;
 }
+
+.lawyer-2__post h5 {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;  
+    margin-top: 25px;  
+}
+
+.lawyer-2__post p{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;  
+    margin-top: 8px;  
+    text-align: center;
+}
+
+.lawyer-2__experience {
+    width: 300px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+
 
 
 
@@ -149,22 +183,22 @@
         top: 15px;
         height: 570px;
         display: grid;
-        grid-template-rows: 430px 54px 126px;
+        grid-template-rows: 375px 54px 126px;
         justify-items: center; 
         background-color: #fff;
     }
     
-    .lawyer-1__post h5 {
+    .lawyer-2__post h5 {
         font-family: Open Sans;
-        font-size: 18px;
+        font-size: 17px;
         font-style: normal;
         font-weight: 600;
         line-height: 24px;
         text-align: center;  
-        margin-top: -17px;  
+        margin-top: 10px;  
     }
     
-    .lawyer-1__post p{
+    .lawyer-2__post p{
         font-family: Open Sans;
         font-size: 14px;
         font-style: normal;
@@ -174,15 +208,15 @@
         text-align: center;
     }
     
-    .lawyer-1__experience {
+    .lawyer-2__experience {
         width: 300px;
         font-family: Open Sans;
-        font-size: 14px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 19px;
-        text-align: left;
-        margin-top: 8px;
+        text-align: center;
+        margin-top: 45px;
     }
 }
 
@@ -250,9 +284,10 @@
     .content-workers__container-lawyer-1 {
         position: relative;
         width: 300px;
+        height: 549px;
         top: 15px;
         display: grid;
-        grid-template-rows: 375px 54px 140px;
+        grid-template-rows: 375px 54px 120px;
         justify-items: center; 
         background-color: #fff;
         box-shadow: 4px 4px 11px rgba(89, 116, 136, 0.07);
@@ -279,7 +314,7 @@
         font-style: normal;
         font-weight: 400;
         line-height: 19px;  
-        margin-top: 8px;  
+        margin-top: 12px;  
         text-align: left;
     }
     
@@ -293,6 +328,41 @@
         text-align: left;
         margin-top: 35px;
     }
+
+    .lawyer-2__post {
+        width: 95%;
+    }
+
+    .lawyer-2__post h5 {
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px;
+        text-align: left;  
+        margin-top: 10px;  
+    }
+    
+    .lawyer-2__post p{
+        font-family: Open Sans;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;  
+        margin-top: 12px;  
+        text-align: left;
+    }
+    
+    .lawyer-2__experience {
+        width: 95%;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 45px;
+    }
 }
 
 
@@ -300,6 +370,18 @@
 /* Apple Xr */
 @media (min-width:410px) and (max-width:420px) {    
     .content {
-        width: 102%;
+        width: 102.5%;
+    }
+
+    .content-workers__container-lawyer {
+        position: relative;
+        top: 10px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 600px 2px 600px;
+    }
+
+    .content-workers__container-lawyer-1 {
+        height: 525px;
     }
 }
