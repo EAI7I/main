@@ -373,6 +373,11 @@
         width: 102.5%;
     }
 
+    .content-workers__container-title {
+        position: relative;
+        top: 32px;
+    }
+
     .content-workers__container-lawyer {
         position: relative;
         top: 10px;
