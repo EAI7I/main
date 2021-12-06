@@ -384,4 +384,35 @@
     .content-workers__container-lawyer-1 {
         height: 525px;
     }
+
+    .lawyer-2__post h5 {
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px;
+        text-align: left;  
+        margin-top: 25px;  
+    }
+    
+    .lawyer-2__post p{
+        font-family: Open Sans;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;  
+        margin-top: 12px;  
+        text-align: left;
+    }
+    
+    .lawyer-2__experience {
+        width: 95%;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 35px;
+    }
 }
