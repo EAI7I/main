@@ -39,10 +39,10 @@ const Header = () => {
                 <div className='mobile__header-title'>
                     <div className='mobile__header-title-name'>
                         <div className='mobile-logo'>
-                            <NavLink to='/main' style={{'pointer-events': 'none'}}><img src="https://i.ibb.co/S0t0jVC/logo.png" alt='logo'/></NavLink>
+                            <NavLink to='/main'><img src="https://i.ibb.co/S0t0jVC/logo.png" alt='logo'/></NavLink>
                         </div>
                         <div></div>
-                        <NavLink to='/main' style={{ color: 'black', textDecoration: 'none', outline: 'none','pointer-events': 'none'}}><div className='mobile-name'>
+                        <NavLink to='/main' style={{ color: 'black', textDecoration: 'none', outline: 'none'}}><div className='mobile-name'>
                             <h6>Профессиональная</h6>
                             <h6>Юридическая</h6>
                             <h6>Помощь</h6>
