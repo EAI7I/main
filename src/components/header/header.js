@@ -16,20 +16,20 @@ const Header = () => {
                             <h5>Помощь</h5>
                     </div></NavLink>
                     <div className='header__container-address'>
-                        <p>г. Кемерово, ул. 50 лет Октября, дом 35, офис 711 </p>
+                        <p>650000, г. Кемерово, ул. 50 лет Октября, д. 11, оф. 705</p>
                     </div>
                     <div className='header__container-contact'>
                         <div className='header__container-contact-data'>
                             <h5>Гутов Алексей Николаевич</h5>
-                            <p>8 999 999 00 00</p>
-                            <p>yeppahoujuke-2723@yopmail.com</p>
+                            <p>8 905 962 66 33</p>
+                            <p>Alexeyprof77@mail.ru</p>
                         </div>
                     </div>
                     <div className='header__container-contact'>
                         <div className='header__container-contact-data'>
-                            <h5>Гутов Алексей Николаевич</h5>
-                            <p>8 999 999 00 00</p>
-                            <p>yeppahoujuke-2723@yopmail.com</p>
+                            <h5>Нуртдинов Дамир Мухаметгадиевич</h5>
+                            <p>8 904 375 84 33</p>
+                            <p>damir-star@mail.ru</p>
                         </div>
                     </div>
                 </div>
@@ -50,19 +50,19 @@ const Header = () => {
                     </div>
                     <div></div>
                     <div className='mobile__header-title-address'>
-                        <p>г. Кемерово, ул. 50 лет Октября, дом 35, офис 571 </p>
+                        <p>650000, г. Кемерово, ул. 50 лет Октября, д. 11, оф. 705</p>
                     </div>
                 </div>
                 <div className='mobile__header-contact'>
                     <div className='mobile__header-contact-data'>
                         <h5>Гутов Алексей Николаевич</h5>
-                        <a href='tel:89999990000'>8 999 999 00 00</a>
-                        <p>yeppahoujuke-2723@yopmail.com</p>
+                        <a href='tel:89059626633'>8 905 962 66 33</a>
+                        <p>Alexeyprof77@mail.ru</p>
                     </div>
                     <div className='mobile__header-contact-data'>
-                        <h5>Гутов Алексей Николаевич</h5>
-                        <a href='tel:89999990000'>8 999 999 00 00</a>
-                        <p>yeppahoujuke-2723@yopmail.com</p>
+                        <h5>Нуртдинов Дамир Мухаметгадиевич</h5>
+                        <a href='tel:89043758433'>8 904 375 84 33</a>
+                        <p>damir-star@mail.ru</p>
                     </div>
                 </div>
             </div>

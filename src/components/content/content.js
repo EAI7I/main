@@ -31,22 +31,22 @@ const Content = () => {
                         <div className='content-workers__container-lawyer-1'>
                             <div><img src={lawyer_1} alt='фото сотрудника' className='lawyer-photo'/></div>
                             <div className='lawyer-1__post'>
-                                <h5>Гаврилов Дмитрий Дмитриевич</h5>
-                                <p>Старший адвокат</p>
+                                <h5>Гутов Алексей Николаевич</h5>
+                                <p>Юрист</p>
                             </div>
                             <div className='lawyer-1__experience'>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus erat elementum dui faucibus tincidunt varius.</p>
+                                <p>Стаж юридической деятельности более 15 лет</p>
                             </div>
                         </div>
                         <div></div>
                         <div className='content-workers__container-lawyer-1'>
                         <div><img src={lawyer_2} alt='фото сотрудника' className='lawyer-photo'/></div>
                             <div className='lawyer-1__post'>
-                                <h5>Гаврилов Дмитрий Дмитриевич</h5>
-                                <p>Старший адвокат</p>
+                                <h5>Нуртдинов Дамир Мухаметгадиевич</h5>
+                                <p>Юрист</p>
                             </div>
                             <div className='lawyer-1__experience'>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus erat elementum dui faucibus tincidunt varius.</p>
+                                <p>Стаж юридической деятельности более 25 лет</p>
                             </div>
                         </div>
                     </div>
