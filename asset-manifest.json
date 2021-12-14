@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/main/static/css/main.f091f813.chunk.css",
-    "main.js": "/main/static/js/main.a8a5e8d6.chunk.js",
-    "main.js.map": "/main/static/js/main.a8a5e8d6.chunk.js.map",
+    "main.js": "/main/static/js/main.f82e75a3.chunk.js",
+    "main.js.map": "/main/static/js/main.f82e75a3.chunk.js.map",
     "runtime-main.js": "/main/static/js/runtime-main.dac9a825.js",
     "runtime-main.js.map": "/main/static/js/runtime-main.dac9a825.js.map",
     "static/js/2.06ec6593.chunk.js": "/main/static/js/2.06ec6593.chunk.js",
@@ -12,14 +12,12 @@
     "index.html": "/main/index.html",
     "static/css/main.f091f813.chunk.css.map": "/main/static/css/main.f091f813.chunk.css.map",
     "static/js/2.06ec6593.chunk.js.LICENSE.txt": "/main/static/js/2.06ec6593.chunk.js.LICENSE.txt",
-    "static/media/title.css": "/main/static/media/background.bdf4692c.png",
-    "static/media/lawyer_1.b01b39fa.png": "/main/static/media/lawyer_1.b01b39fa.png",
-    "static/media/lawyer_2.5a05ec82.png": "/main/static/media/lawyer_2.5a05ec82.png"
+    "static/media/title.css": "/main/static/media/background.bdf4692c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dac9a825.js",
     "static/js/2.06ec6593.chunk.js",
     "static/css/main.f091f813.chunk.css",
-    "static/js/main.a8a5e8d6.chunk.js"
+    "static/js/main.f82e75a3.chunk.js"
   ]
 }
