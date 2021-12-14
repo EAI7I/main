@@ -366,6 +366,20 @@
 }
 
 
+/* Apple 6-13 */
+@media (min-width:350px) and (max-width:380px) {  
+    .lawyer-2__experience {
+        width: 95%;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 25px;
+    }
+}
+
 
 /* Apple Xr */
 @media (min-width:410px) and (max-width:420px) {    
