@@ -37,7 +37,7 @@
     }
 }
 
-@media (max-width:605px) {
+@media (max-width:650px) {
     .footer__description {
         width: 80%;
         font-size: 11.5px;
@@ -46,15 +46,18 @@
     }
 }
 
-@media (max-width:550px) {
-    .footer__description {
-        font-size: 10px;
-    }
-}
 
 /* Apple Xr */
 @media (min-width:410px) and (max-width:420px) {    
     .footer {
         width: 103%;
+    }
+}
+
+@media (min-width:310px) and (max-width:325px) {    
+    .footer {
+        width: 103%;
+        font-size: 10px;
+        line-height: 14px;
     }
 }
