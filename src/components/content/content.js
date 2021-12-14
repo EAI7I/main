@@ -11,7 +11,7 @@ const Content = () => {
                 <div className='content-workers__container'>
                     <div className='content-workers__container-title'>
                         <h4>Наши специалисты</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae habitant phasellus sed commodo euismod tempus libero quam.</p>
+                        <p>В нашей юридической консультации работают юристы с большим профессиональным опытом правовой деятельности по защите прав и интересов граждан, индивидуальных предпринимателей и юридических лиц.</p>
                     </div>
                     <div className='content-workers__container-lawyer'>
                         <div className='content-workers__container-lawyer-1'>
