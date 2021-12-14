@@ -367,18 +367,7 @@
 
 
 /* Apple 6-13 */
-@media (min-width:350px) and (max-width:380px) {  
-    .lawyer-2__experience {
-        width: 95%;
-        font-family: Open Sans;
-        font-size: 14px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 19px;
-        text-align: left;
-        margin-top: 25px;
-    }
-
+@media (min-width:360px) and (max-width:380px) {  
     .content {
         width: 103%;
     }
@@ -390,7 +379,7 @@
 
     .content-workers__container-lawyer {
         position: relative;
-        top: 25px;
+        top: 20px;
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 600px 2px 600px;
@@ -418,6 +407,17 @@
         line-height: 19px;  
         margin-top: 12px;  
         text-align: left;
+    }
+
+    .lawyer-2__experience {
+        width: 95%;
+        font-family: Open Sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 25px;
     }
 }
 
