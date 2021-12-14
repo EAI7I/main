@@ -5,7 +5,8 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className='footer__description'>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est porta auctor nulla consequat. Ultrices sed habitant interdum vestibulum duis quis. Sit metus nec nisi dictum ut. Dapibus sit pulvinar at orci, laoreet interdum luctus eu.</p>
+                <p>Вся информация представлена на сайте в ознакомительных целях и не является публичной офертой. Требуется консультация специалиста.
+Все материалы данного сайта являются объектами авторского права (в том числе дизайн). Запрещается копирование, распространение (в том числе путем копирования на другие сайты и ресурсы в Интернете) или любое иное использование информации и объектов без предварительного согласия правообладателя.</p>
             </div>
         </div>
     )
