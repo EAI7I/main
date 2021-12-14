@@ -54,10 +54,8 @@
     }
 }
 
-@media (min-width:310px) and (max-width:325px) {    
-    .footer {
-        width: 103%;
+@media (min-width:310px) and (max-width:330px) {    
+    .footer__description {
         font-size: 10px;
-        line-height: 14px;
     }
 }
