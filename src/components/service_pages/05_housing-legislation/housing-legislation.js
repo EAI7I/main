@@ -1,4 +1,5 @@
 import React from 'react';
+import {Helmet} from "react-helmet";
 import {NavLink} from 'react-router-dom';
 import Header from '../../header/header';
 import Footer from '../../footer/footer';
@@ -10,6 +11,10 @@ const HousingLegislation = () => {
     window.scrollTo(0, 0);
     return (
         <>
+            <Helmet>
+                <title>Жилищное законодательство</title>
+                <meta name="description" content="Профессиональная юридическая помощь в Кемерово в области жилищного законодательства." />
+            </Helmet>
             <Header/>
             <div className='desktop-service__page-05'>
                 <div className='service__page-container'>
